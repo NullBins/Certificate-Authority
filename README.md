@@ -4,6 +4,7 @@
 
 ###### 📚 Repository for records of how to setup CA servers [ *Written by NullBins* ]
 - By default, the commands are executed as a root user.
+> [![Video](http://img.youtube.com/vi/jYXW3Qvwke4/0.jpg)](https://www.youtube.com/watch?v=jYXW3Qvwke4)
 
 <br/>
 
